@@ -41,6 +41,8 @@
 
 .plans-btn {
     background-color: #F8FBFF;
+    font-size: 14px;
+    font-family: 'Google Sans', Roboto, Arial, sans-serif;
     color: #1A73E8;
     text-decoration: none;
     border: 1px solid #5A77E8;
